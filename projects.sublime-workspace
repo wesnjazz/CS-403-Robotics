@@ -1,0 +1,1502 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"base",
+				"base_velocity"
+			],
+			[
+				"ROGER",
+				"ROGER_MODE_DEFENSE"
+			],
+			[
+				"RS_RE",
+				"RS_RETREAT_TURN90"
+			],
+			[
+				"RS_RETRE",
+				"RS_RETREAT_TURN90"
+			],
+			[
+				"RETRE",
+				"RS_RETREAT_TURN90"
+			],
+			[
+				"SEA",
+				"SEARCH_TRACK"
+			],
+			[
+				"res",
+				"rec_setp"
+			],
+			[
+				"tt_",
+				"tt_chase"
+			],
+			[
+				"RO",
+				"ROGER_MODE_DEFENSE"
+			],
+			[
+				"RS_CHA",
+				"RS_CHASE"
+			],
+			[
+				"tt_bl",
+				"tt_block"
+			],
+			[
+				"tt",
+				"tt_pong_int"
+			],
+			[
+				"tt_ch",
+				"tt_chase_int"
+			],
+			[
+				"ROG",
+				"ROGER_MODE_DEFENSE"
+			],
+			[
+				"tik",
+				"tiktok_block"
+			],
+			[
+				"RS_TURN",
+				"RS_TURN90_SAMPLE_BACKFORTH_BLOCK"
+			],
+			[
+				"TURN90",
+				"RS_TURN90_SAMPLE_BACKFORTH_BLOCK"
+			],
+			[
+				"ti",
+				"tiktok_chase_interval"
+			],
+			[
+				"t",
+				"tiktok_chase"
+			],
+			[
+				"RS_SEARCH_TRAC",
+				"RS_SEARCH_TRACK"
+			],
+			[
+				"RS_SEA",
+				"RS_SEARCH_TRACK"
+			],
+			[
+				"bo",
+				"body_touched"
+			],
+			[
+				"ext",
+				"ext_forceBY"
+			],
+			[
+				"ex",
+				"ext_forceBX"
+			],
+			[
+				"right_",
+				"right_touched"
+			],
+			[
+				"lef",
+				"left_touched"
+			],
+			[
+				"eye",
+				"eye_theta"
+			],
+			[
+				"M",
+				"M_PI"
+			],
+			[
+				"RS_SAM",
+				"RS_SAMPLE_BACKFORTH"
+			],
+			[
+				"RS_SAMPLE",
+				"RS_SAMPLE_BACKFORTH_BLOCK"
+			],
+			[
+				"RS_SAMPL",
+				"RS_SAMPLE_BACKFORTH_BLOCK"
+			],
+			[
+				"SAM",
+				"SAMPLE_BACKFORTH"
+			],
+			[
+				"Lar",
+				"Larm0"
+			],
+			[
+				"ri",
+				"right_reach"
+			],
+			[
+				"le",
+				"left_reach"
+			],
+			[
+				"Rarm",
+				"Rarm1"
+			],
+			[
+				"Larm",
+				"Larm1"
+			],
+			[
+				"DIR",
+				"DIR_FORTH"
+			],
+			[
+				"DIR_",
+				"DIR_FORTH"
+			],
+			[
+				"ul",
+				"ul_1st"
+			],
+			[
+				"ul_",
+				"ul_1st"
+			],
+			[
+				"til",
+				"tiktok_sample_interval"
+			],
+			[
+				"tikto",
+				"tiktok_sample_interval"
+			],
+			[
+				"tikt",
+				"tiktok_sample"
+			],
+			[
+				"sample",
+				"sampled_two"
+			],
+			[
+				"RU",
+				"RS_TURN90"
+			],
+			[
+				"TURN",
+				"TURN90_SAMPLE_BACKFORTH_BLOCK"
+			],
+			[
+				"TU",
+				"TURN90"
+			],
+			[
+				"base_",
+				"base_setpoint"
+			],
+			[
+				"Roger",
+				"Roger_mode"
+			],
+			[
+				"RS_TUR",
+				"RS_TURN90"
+			],
+			[
+				"T",
+				"THETA"
+			],
+			[
+				"diff",
+				"diff_y"
+			],
+			[
+				"prev",
+				"prev_y"
+			],
+			[
+				"the",
+				"theta1"
+			],
+			[
+				"ba",
+				"ball_LorR"
+			],
+			[
+				"rec",
+				"rec_setp"
+			],
+			[
+				"sta",
+				"state_search_track"
+			],
+			[
+				"RS_OB",
+				"RS_OBSERVE_PREDICT_INTERCEPT"
+			],
+			[
+				"state",
+				"state_search_track"
+			],
+			[
+				"RS_OER",
+				"RS_OBSERVE_PREDICT_INTERCEPT"
+			],
+			[
+				"SE",
+				"SEARCH_TRACK_OBSERVE_PREDICT_INTERCEPT"
+			],
+			[
+				"state_re",
+				"state_retreat"
+			],
+			[
+				"CHASE",
+				"CHASE_PUNCH"
+			],
+			[
+				"RS_",
+				"RS_SEARCH_TRACK"
+			],
+			[
+				"arm_",
+				"arm_setpoint"
+			],
+			[
+				"RS",
+				"RS_SEARCH_TRACK"
+			],
+			[
+				"CHA",
+				"CHASE_PUNCH"
+			],
+			[
+				"RS_SE",
+				"RS_SEARCH_TRACK"
+			],
+			[
+				"eye_",
+				"eyes_setpoint"
+			],
+			[
+				"sam",
+				"sample_gaze_direction"
+			],
+			[
+				"pre",
+				"prev_heading"
+			],
+			[
+				"SEAR",
+				"SEARCHTRACK"
+			],
+			[
+				"head",
+				"heading"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"x_",
+				"x_predict"
+			],
+			[
+				"RS_IN",
+				"RS_INTERCEPT"
+			],
+			[
+				"y_",
+				"y_predict"
+			],
+			[
+				"av",
+				"avg_vel_y"
+			],
+			[
+				"NO",
+				"NO_REFERENCE"
+			],
+			[
+				"avg",
+				"avg_vel_x"
+			],
+			[
+				"sum",
+				"sum_vel_y"
+			],
+			[
+				"num",
+				"num_observed"
+			],
+			[
+				"state_",
+				"state_observeball"
+			],
+			[
+				"ve",
+				"vel_y"
+			],
+			[
+				"vel",
+				"vel_x"
+			],
+			[
+				"arm",
+				"arm_setpoint"
+			],
+			[
+				"bas",
+				"base_offset"
+			],
+			[
+				"st",
+				"state_retreat"
+			],
+			[
+				"home_a",
+				"home_angle"
+			],
+			[
+				"Y",
+				"Y_err"
+			],
+			[
+				"X",
+				"X_err"
+			],
+			[
+				"re",
+				"recommended_setpoints"
+			],
+			[
+				"base_set",
+				"base_setpoint"
+			],
+			[
+				"tio",
+				"tiktok_punch_hit"
+			],
+			[
+				"to",
+				"tolerance"
+			],
+			[
+				"RogerArmT",
+				"RogerArmTouch"
+			],
+			[
+				"p",
+				"pos"
+			],
+			[
+				"new",
+				"new_obs"
+			],
+			[
+				"Rogera",
+				"RogerArmHome"
+			],
+			[
+				"ret",
+				"return_state"
+			],
+			[
+				"arm_y",
+				"arm_y_min"
+			],
+			[
+				"arm_y_",
+				"arm_y_min"
+			],
+			[
+				"arm_y_m",
+				"arm_y_max"
+			],
+			[
+				"R",
+				"Rarm_x"
+			],
+			[
+				"arm_x_",
+				"arm_x_maxL"
+			],
+			[
+				"arm_x",
+				"arm_x_minL"
+			],
+			[
+				"ar",
+				"arm_theta"
+			],
+			[
+				"MIN",
+				"MIN_Y"
+			],
+			[
+				"MAX",
+				"MAX_Y"
+			],
+			[
+				"arm_x_max",
+				"arm_x_maxR"
+			],
+			[
+				"L",
+				"Larm_y"
+			],
+			[
+				"x_m",
+				"x_minL"
+			],
+			[
+				"Ra",
+				"Rarm_x"
+			],
+			[
+				"obs-",
+				"obs-pos"
+			],
+			[
+				"pre_",
+				"prev_y"
+			],
+			[
+				"tm",
+				"time_logged"
+			],
+			[
+				"time",
+				"time_logged"
+			],
+			[
+				"y",
+				"y_err_MIN"
+			],
+			[
+				"y_e",
+				"y_err_MIN"
+			],
+			[
+				"set",
+				"stereo_observation"
+			],
+			[
+				"Ro",
+				"Roger_mode"
+			],
+			[
+				"b",
+				"ball_LorR"
+			],
+			[
+				"TRE",
+				"TRANSIENT"
+			],
+			[
+				"Sta",
+				"state_punch"
+			],
+			[
+				"STA",
+				"STATE_CONVERGED"
+			],
+			[
+				"we",
+				"wheel_torque"
+			],
+			[
+				"stat",
+				"state_punch"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "RogerProjects/project1-MotorUnits/project1.c",
+			"settings":
+			{
+				"buffer_size": 20387,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RogerProjects/project2-ArmKinematics/project2.c",
+			"settings":
+			{
+				"buffer_size": 9852,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RogerProjects/project3-Vision/project3.c",
+			"settings":
+			{
+				"buffer_size": 4003,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RogerProjects/project4-SearchTrack/sampling.c",
+			"settings":
+			{
+				"buffer_size": 2685,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RogerProjects/project7-ChasePunch/project7.c",
+			"settings":
+			{
+				"buffer_size": 11945,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RogerProjects/project4-SearchTrack/project4.c",
+			"settings":
+			{
+				"buffer_size": 11417,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RogerProjects/project9-PONG/project9.c",
+			"settings":
+			{
+				"buffer_size": 51448,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RogerProjects/project9-PONG/backup/project9_backup_block03.c",
+			"settings":
+			{
+				"buffer_size": 50127,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RogerProjects/project9-PONG/backup/project9_backup_retreat04.c",
+			"settings":
+			{
+				"buffer_size": 52185,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RogerProjects/project9-PONG/backup/project9_backup_block01.c",
+			"settings":
+			{
+				"buffer_size": 49130,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RogerProjects/project5-StereoKinematics/project5.c",
+			"settings":
+			{
+				"buffer_size": 9491,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RogerProjects/include/control.h",
+			"settings":
+			{
+				"buffer_size": 5968,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RogerProjects/include/roger.h",
+			"settings":
+			{
+				"buffer_size": 5794,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RogerProjects/update.c",
+			"settings":
+			{
+				"buffer_size": 13403,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RogerProjects/include/simulate.h",
+			"settings":
+			{
+				"buffer_size": 11396,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/dpark/workspace/win10_workspace/CS403/HWsubmissions/PONG/test/RogerProjects/project1-MotorUnits/project1.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project9-PONG/backup/project9_backup_retreat03.c",
+		"/home/dpark/Downloads/project7.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project9-PONG/project9_backup_turn90_08.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project9-PONG/project9_backup_new03.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project9-PONG/project9_backup15.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project9-PONG/project9_backup_turn90_01.c",
+		"/home/dpark/Downloads/SearchTrack.txt",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project6-Kalman/project6.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project6-Kalman/gauss_noise.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project6-Kalman/kalman.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project9-PONG/project9_backup_new09.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project9-PONG/project9_backup_new02.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project9-PONG/project9_backup08.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/run_multiple_agent_arena.sh",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/run_multiple_agent_arena_score.sh",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project9-PONG/project9_backup01.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project9-PONG/project9_backup02.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project9-PONG/project9_backup03.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerProjects/project7-ChasePunch/project7_backup03.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project9-PONG/update.c",
+		"/home/dpark/workspace/win10_workspace/CS370/Hw03/original/p3s.tex",
+		"/home/dpark/Downloads/p3s.tex",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/catkin_ws/src/my_robot/worlds/DP_world.world",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/run_single_agent_arena.sh",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerSimulator/mobile_base.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/._run_multiple_agent_arena.sh",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/nocompile.sh",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/go.sh",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/matrix_math.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project2-ArmKinematics/project2_backup01.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project4-SearchTrack/project4_backup01.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerSimulator/platform.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/update.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerSimulator/xrobot.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/include/modes.h",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/include/models.h",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/run_single_agent_dev.sh",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerSimulator/whole_body.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerSimulator/base.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerSimulator/arm.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerSimulator/object.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerSimulator/transform_math.c",
+		"/home/dpark/workspace/win10_workspace/CS403/original-roger-2019/roger-2019/RogerProjects/project2-ArmKinematics/project2.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project5-StereoKinematics/project5_backup01.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerClient/include/control.h",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerClient/4D_math.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/include/matrix_math.h",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project3-Vision/old_vision.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project2-ArmKinematics/project2.o",
+		"/home/dpark/catkin_ws/src/simple_arm/package.xml",
+		"/opt/ros/kinetic/include/ros/init.h",
+		"/opt/ros/kinetic/include/ros/ros.h",
+		"/opt/ros/kinetic/include/std_msgs/Float64.h",
+		"/home/dpark/catkin_ws/src/simple_arm/CMakeLists.txt",
+		"/home/dpark/catkin_ws/src/simple_arm/src/arm_mover.cpp",
+		"/home/dpark/catkin_ws/src/simple_arm/src/simple_mover.cpp",
+		"/home/dpark/catkin_ws/src/beginner_tutorials/src/talker.cpp",
+		"/home/dpark/catkin_ws/src/beginner_tutorials/src/listener.cpp",
+		"/opt/ros/kinetic/share/roscpp_tutorials/srv/TwoInts.srv",
+		"/home/dpark/.bashrc",
+		"/home/dpark/catkin_ws/src/simple_arm/srv/GoToPosition.srv",
+		"/home/dpark/Documents/robot.html",
+		"/home/dpark/workspace/win10_workspace/Udacity_Robotics/myrobot_new/world/myworld",
+		"/home/dpark/workspace/win10_workspace/Udacity_Robotics/myrobot_new/CMakeLists.txt",
+		"/home/dpark/workspace/win10_workspace/Udacity_Robotics/myrobot_new/script/hello.cpp",
+		"/home/dpark/workspace/win10_workspace/Udacity_Robotics/myrobot_old/world/myworld",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/Udacity_Robotics/Project1_BuildMyWorld/world/DP_world",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/Udacity_Robotics/Project1_BuildMyWorld/script/hello.cpp",
+		"/home/dpark/workspace/win10_workspace/Udacity_Robotics/myrobot/world/myworld",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerSimulator/include/simulate.h",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/include/roger.h",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/include/control.h",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project3-Vision/project3.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project2-ArmKinematics/project2.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project1-MotorUnits/project1.c",
+		"/home/dpark/Documents/First, thanks for all previous answers! Now I can",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/include/simulate.h",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerSimulator/control.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerSimulator/base+left_eye.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerSimulator/base+eyes.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerSimulator/4D_math.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerSimulator/eye.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/include/Xkw/Xkw.h",
+		"/home/dpark/workspace/win10_workspace/CS370/Hw01/code/evalDemosaicing.py",
+		"/home/dpark/workspace/win10_workspace/CS370/Hw01/code/runDemosaicing.py",
+		"/home/dpark/workspace/win10_workspace/CS370/Hw01/code/evalAlignment.py",
+		"/home/dpark/workspace/win10_workspace/CS370/Hw01/code/alignProkudin.py",
+		"/home/dpark/workspace/win10_workspace/CS370/Hw01/code/alignChannels.py",
+		"/home/dpark/workspace/win10_workspace/CS370/Hw01/code/mosaicImage.py",
+		"/home/dpark/workspace/win10_workspace/CS370/Hw01/code/demosaicImage.py",
+		"/home/dpark/workspace/win10_workspace/CS370/Hw01/code/test.py",
+		"/home/dpark/workspace/win10_workspace/CS370/Hw01/code/utils.py",
+		"/home/dpark/workspace/win10_workspace/CS370/Hw01/code/randomlyShiftChannels.py",
+		"/home/dpark/Downloads/alignment_starter.m",
+		"/home/dpark/bashrc",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerProjects/include/simulate.h",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerProjects/include/roger.h",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerProjects/update.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerProjects/include/control.h",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerProjects/project1-MotorUnits/project1.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/include/modes.h",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/include/models.h",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/include/matrix_math.h",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/4D_math.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/arm.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/base.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/base+eyes.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/base+left_eye.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/control.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/eye.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/matrix_math.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/mobile_base.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/include/control.h",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/SocketSimulator.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/include/roger.h",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/include/simulate.h",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/platform.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/object.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/transform_math.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/whole_body.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerSimulator/xrobot.c",
+		"/home/dpark/workspace/win10_workspace/CS403/roger-2019/RogerProjects/project1-MotorUnits/arm_K80_00000_B4_00000.txt",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerProjects/project1-MotorUnits/test_eye.txt",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerProjects/include/modes.h",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerProjects/include/models.h",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerClient/SocketComm.c",
+		"/mnt/BE9ED5429ED4F43D/Users/natha/Google Drive/workspace/CS403/roger-2019/RogerProjects/include/matrix_math.h"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"2.0",
+			"RS_HOME",
+			"RS_CHASE",
+			"1.2",
+			"Roger_mode",
+			";\n",
+			"RS_TURN90",
+			"TURN90",
+			"TURN90_SAMPLE_BACKFORTH_BLOCK",
+			"RETREAT_TURN90_SAMPLE_BACKFORTH_BLOCK",
+			"RS_TURN90",
+			"RS_CHASE_PUNCH",
+			"RS_CHASE_PUNCH_RETREAT",
+			"RS_CHASE_PUNCH",
+			"RS_RETREAT",
+			"RS_CHASE_PUNCH",
+			"RS_CHASE_PUNCH_RETREAT",
+			"- ",
+			"CHASE_PUNCH",
+			"CHASE_PUNCH_RETREAT",
+			"RS_CHASE_PUNCH_RETREAT",
+			"Roger_mode",
+			"block",
+			"NO_REFERENCE",
+			"PUNCH(",
+			"ext_force",
+			"double Kp_base_trans = 300.0;\ndouble Kd_base_trans = 42.0; \n",
+			"RS_HOME",
+			"RS_SEARCH_TRACK",
+			"RS_BLOCK",
+			"int",
+			"RS_TURN90",
+			"retreat",
+			"opposite",
+			"roger->base_setpoint",
+			"roger->arm_setpoint",
+			"roger->base_setpoint",
+			"roger->eyes_setpoint",
+			"RS_TURN90",
+			"roger->arm_setpoint",
+			"roger->base_setpoint",
+			"roger->eyes_setpoint",
+			"opposite",
+			"1.2",
+			"M_PI/2.0",
+			"opposite",
+			"roger->eye_theta[",
+			"Roger_mode",
+			"RS_TURN90",
+			"left_touc",
+			"+",
+			"-",
+			"RS_TURN90",
+			"0.1",
+			"Larm",
+			"LEFT",
+			"THETA",
+			"ops",
+			"RS_BLOCK",
+			"RS_SAMPLE_BACKFORTH_BLOCK",
+			"RS_BLOCK",
+			"RS_SAMPLE_BACKFORTH_BLOCK",
+			" -",
+			" - ",
+			"RS_TURN90",
+			"L",
+			"LEFT",
+			"ops",
+			"x",
+			"arm_",
+			"_arm",
+			"L_arm",
+			"RS_TURN90",
+			"roger->arm_setpoint",
+			"THETA",
+			"roger->base_setpoint",
+			"roger->eyes_setpoint",
+			" -",
+			"RS_SEARCH_TRACK",
+			"TRACK",
+			"SEARCH",
+			"TURN90",
+			"BACKFORTH",
+			"average",
+			"RS_SEARCH_TRACK",
+			"rec_setp[RS_TURN90_BACKFORTH_BLOCK].arm",
+			"LEFT",
+			"TRANSIENT",
+			" -\t",
+			"NO_REFERENCE",
+			":",
+			":\t",
+			"base",
+			"RS)",
+			"RS_SEARCH_TRACK",
+			"rec_setp[RS_TURN90_BACKFORTH_BLOCK].eye",
+			"Roger_mode",
+			"RS_OBSERVE_PREDICT_INTERCEPT",
+			"// ",
+			"INTERCEPT",
+			"PREDICT",
+			"OBSERVE",
+			"RS_HOME",
+			"obs.pos[X]",
+			"obs.pos[Y]",
+			"x",
+			"RS_SEARCH_TRACK",
+			"LEFT",
+			"NBINS_BPS",
+			"RS_OBSERVE_PREDICT_INTERCEPT",
+			"RS_CHASE",
+			"RS_INTERCEPT",
+			"roger->arm_setpoint",
+			"roger->base_setpoint",
+			"roger->eyes_setpoint",
+			"case",
+			"// CO",
+			"GED",
+			" -",
+			"se ",
+			"RS_OBSERVE_PREDICT_INTERCEPT",
+			"recommended_setpoints",
+			"obs->",
+			"bps->",
+			"obs->",
+			"bps->",
+			"obs->",
+			"recommended_setpoints"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			";\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "RogerProjects/project1-MotorUnits/project1.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15738,
+								15738
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7915.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "RogerProjects/project2-ArmKinematics/project2.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2413,
+								2413
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 986.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "RogerProjects/project3-Vision/project3.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								642,
+								642
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 864.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "RogerProjects/project4-SearchTrack/sampling.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1480,
+								1480
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 348.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "RogerProjects/project7-ChasePunch/project7.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5963,
+								5963
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1261.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "RogerProjects/project4-SearchTrack/project4.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9914,
+								9914
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5651.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "RogerProjects/project9-PONG/project9.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36815,
+								36815
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 20898.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "RogerProjects/project9-PONG/backup/project9_backup_block03.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 50127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13487,
+								13487
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6822.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "RogerProjects/project9-PONG/backup/project9_backup_retreat04.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 52185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "RogerProjects/project9-PONG/backup/project9_backup_block01.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15764,
+								15764
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8294.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "RogerProjects/project5-StereoKinematics/project5.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1327,
+								1327
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1824.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "RogerProjects/include/control.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5968,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4848,
+								4848
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2449.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "RogerProjects/include/roger.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4176,
+								4176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1380.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "RogerProjects/update.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5325,
+								5325
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5994.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "RogerProjects/include/simulate.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1286,
+								1286
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "projects.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
