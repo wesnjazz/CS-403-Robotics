@@ -25,10 +25,10 @@ void update_setpoints();
 // EYES
 // K: 1.0
 // B: 0.0205
-// double Kp_eye = 30.0;
-// double Kd_eye = 0.2;
-double Kp_eye = 10.0;
-double Kd_eye = 0.076;
+double Kp_eye = 30.0;
+double Kd_eye = 0.2;
+// double Kp_eye = 10.0;
+// double Kd_eye = 0.076;
 // double Kp_eye = 0.1;
 // double Kd_eye = 0.0025;
 // double Kp_eye = 1.0;
@@ -68,8 +68,8 @@ double passive_Kd_arm = 1.0;
 // B: 40.0
 // double Kp_base_trans = 300.0;
 // double Kd_base_trans = 30.0; 
-double Kp_base_trans = 400.0;
-double Kd_base_trans = 50.0; 
+double Kp_base_trans = 1400.0;
+double Kd_base_trans = 250.0; 
         // double Kp_base_trans = 330.0;
         // double Kd_base_trans = 44.0; 
 // double Kp_base_trans = 300.0;
