@@ -33,7 +33,7 @@ The robot transforms into defensive mode based on the status of the finite state
 
 
 
->
+```
 STEPS FOR COMPILING THE SIMULATOR
 
 1. Unzip roger.zip
@@ -68,6 +68,4 @@ STEPS FOR RUNNING THE SIMULATOR
 
 The port numbers start from 8000 for the first player and increment by 1 for each new
 player. This will start the simulator with RobotNum Rogers.
-
-
-
+```
