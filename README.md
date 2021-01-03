@@ -5,25 +5,25 @@
 \
 # Relevant Skills:
 
-- ### Stereo Localization
+- ## Stereo Localization
 The robot uses its stereo vision(two eyes) to appoximate the depth of the vision to localize the red ball.\
 ![](demo/roger-stereoVision.gif)
-\
 
-- ### PD Control
+
+- ## PD Control
 Spring-Mass-Damper, Open/Closed-Loop Control, PD(Proportional Derivate) Control, Laplace Transform, etc.\
 ![](demo/roger-PDcontrol.gif)
-\
 
-- ### Kinematics
+
+- ## Kinematics
 Forward and Inverse kinematics\
 ![](demo/roger-kinematics.gif)
-\
 
-- ### State Machine
+
+- ## State Machine
 Finite State Machine\
 ![](demo/roger-statemachine.gif)
-\
+
 
 - ### Homogeneous Transform
 - ### Dynamics
