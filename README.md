@@ -14,11 +14,13 @@ PD control was used
 
 ##### Frequency-Domain Response
 ##### Kinematics (Forward and Inverse)
+![](demo/roger-kinematics.gif)
 ##### Homogeneous Transform
 ##### Dynamics
 ##### Controls
 ##### Path Planning
 ##### State Machine
+![](demo/roger-statemachine.gif)
 
 
 
