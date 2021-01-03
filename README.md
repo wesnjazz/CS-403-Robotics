@@ -1,6 +1,7 @@
 ![](demo/Roger001.gif)
 
 Relevant Skills:
+##### Spring-Mass-Damper
 ##### PD(Proportional Derivate) Control
 ##### Laplace Transform
 ##### Kinematics
