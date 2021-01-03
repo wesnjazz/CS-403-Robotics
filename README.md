@@ -17,7 +17,8 @@ The robot can move smoothly like a car with suspension.
   
   
 - ### Kinematics
-Forward and Inverse kinematics  
+The robot moves its arm to hit the red ball.
+*Forward and Inverse kinematics.*  
 ![](demo/roger-kinematics.gif)
   
   
