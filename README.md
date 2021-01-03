@@ -10,8 +10,7 @@
 
 
 - ### PD Control
-- Spring-Mass-Damper, Open/Closed-Loop Control, PD(Proportional Derivate) Control, Laplace Transform, etc.
-
+*Spring-Mass-Damper, Open/Closed-Loop Control, PD(Proportional Derivate) Control, Laplace Transform, etc.*
 ![](demo/roger-PDcontrol.gif)
 
 
@@ -21,13 +20,13 @@
 
 
 - ### State Machine
-*State Machine*
+*Finite State Machine*
 ![](demo/roger-statemachine.gif)
 
-##### Homogeneous Transform
-##### Dynamics
-##### Controls
-##### Path Planning
+- ### Homogeneous Transform
+- ### Dynamics
+- ### Controls
+- ### Path Planning
 
 
 
