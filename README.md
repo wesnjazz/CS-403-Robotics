@@ -10,7 +10,8 @@ The robot uses its stereo vision(two eyes) to appoximate the depth of the vision
 ![](demo/roger-stereoVision.gif)
   
   
-- ### PD Control
+- ### PD Control  
+The robot can move smoothly like a car with suspension.  
 Spring-Mass-Damper, Critical Damping, Open/Closed-Loop Control, Laplace Transform, etc.  
 ![](demo/roger-PDcontrol.gif)
   
