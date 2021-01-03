@@ -20,8 +20,7 @@ Forward and Inverse kinematics\
 ![](demo/roger-kinematics.gif)
 
 
-- ### State Machine
-Finite State Machine\
+- ### Finite State Machine
 After the red ball is out of sight after the successfull attack, the robot transforms into the "Defense" mode based on the status of the finite state machine.\
 ![](demo/roger-statemachine.gif)
 
