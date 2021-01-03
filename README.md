@@ -1,6 +1,6 @@
 # Robotics Simulation
 ![](demo/Roger001.gif)
-*The simulator program is credited to Roderic Grupen, professor of Computer science and director of the Laboratory for Perceptual Robotics at the University of Massachusetts Amherst.*  
+*The simulator program is credited to Roderic Grupen, professor of Computer science and director of the Laboratory for Perceptual Robotics at the University of Massachusetts Amherst.*
 *The simulator program was removed on purpose on github. Only project files are displayed.*
 
 ## Relevant Skills:
@@ -16,7 +16,7 @@ Spring-Mass-Damper, Critical Damping, Open/Closed-Loop Control, Laplace Transfor
   
   
 - ### Kinematics
-Forward and Inverse kinematics\
+Forward and Inverse kinematics
 ![](demo/roger-kinematics.gif)
   
   
