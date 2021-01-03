@@ -5,7 +5,7 @@
 ## Relevant Skills:
 
 - ### Stereo Localization
-*The robot uses its stereo vision(two eyes) to appoximate the depth of the vision to localize the red ball.*
+#### *The robot uses its stereo vision(two eyes) to appoximate the depth of the vision to localize the red ball.*
 ![](demo/roger-stereoVision.gif)
 
 
