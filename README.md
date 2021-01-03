@@ -11,7 +11,7 @@ The robot uses its stereo vision(two eyes) to appoximate the depth of the vision
 
 
 - ### PD Control
-Spring-Mass-Damper, Open/Closed-Loop Control, Laplace Transform, etc.\
+Spring-Mass-Damper, Critical Damping, Open/Closed-Loop Control, Laplace Transform, etc.\
 ![](demo/roger-PDcontrol.gif)
 
 
