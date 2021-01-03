@@ -24,7 +24,7 @@ Forward and Inverse kinematics\
 Finite State Machine\
 ![](demo/roger-statemachine.gif)
 
-- ## +
+## +
 - ### Homogeneous Transform
 - ### Dynamics
 - ### Controls
