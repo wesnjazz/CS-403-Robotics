@@ -32,7 +32,7 @@ The robot transforms into defensive mode based on the status of the finite state
 - ### Path Planning
 
 
-
+---
 ```
 STEPS FOR COMPILING THE SIMULATOR
 
