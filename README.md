@@ -22,6 +22,7 @@ Forward and Inverse kinematics\
 
 - ## State Machine
 Finite State Machine\
+The robot transforms into defensive mode based on the status of the finite state machine.\
 ![](demo/roger-statemachine.gif)
 
 ## +
