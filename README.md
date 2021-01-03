@@ -1,7 +1,7 @@
 # Robotics Simulation
 ![](demo/Roger001.gif)
 *The simulator program is credited to Roderic Grupen, professor of Computer science and director of the Laboratory for Perceptual Robotics at the University of Massachusetts Amherst.*
-
+*The simulator program was removed on purpose on github. Only project files are displayed.*
 
 ## Relevant Skills:
 
