@@ -16,7 +16,7 @@ Spring-Mass-Damper, Critical Damping, Open/Closed-Loop Control, Laplace Transfor
   
   
 - ### Kinematics
-Forward and Inverse kinematics
+Forward and Inverse kinematics  
 ![](demo/roger-kinematics.gif)
   
   
