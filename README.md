@@ -8,6 +8,7 @@ Relevant Skills:
 ##### Frequency-Domain Response
 ##### Kinematics
 ##### Stereo Localization
+##### Homogeneous Transform
 ##### Dynamics
 ##### Controls
 ##### Path Planning
