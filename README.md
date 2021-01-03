@@ -6,7 +6,7 @@ Relevant Skills:
 ##### PD(Proportional Derivate) Control
 ##### Laplace Transform
 ##### Frequency-Domain Response
-##### Kinematics
+##### Kinematics (Forward and Inverse)
 ##### Stereo Localization
 ##### Homogeneous Transform
 ##### Dynamics
